@@ -1,0 +1,33 @@
+{
+	"name": "pretty-palette",
+	"displayName": "Rob's Pretty Palette",
+	"version": "2019.5.0",
+	"preview": false,
+	"publisher": "robeth",
+	"description": "A prettier colorscheme by Rob Chiocchio",
+	"engines": {
+		"vscode": "^0.1.1"
+	},
+	"license": "GPLv3",
+	"categories": [
+        "Themes"
+    ],
+    "icon": "icon.png",
+	"galleryBanner": {
+		"color": "#FF7164",
+		"theme": "dark"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/RobethX/Pretty-VSCode.git"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Rob's Pretty Palette",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pretty-palette.json"
+            }
+        ]
+    }
+}

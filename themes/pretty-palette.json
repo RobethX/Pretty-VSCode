@@ -16,7 +16,7 @@
                 "bracketContentsOptions": "underline",
                 "tagsOptions": "stippled_underline"
             }
-        // },
+        },
         {
             "name": "Comment",
             "scope": "comment",
