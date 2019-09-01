@@ -1,15 +1,13 @@
 {
-	"name": "pretty-palette",
-	"displayName": "Rob's Pretty Palette",
-	"version": "2019.5.0",
-	"preview": false,
-	"publisher": "robeth",
-	"description": "A prettier colorscheme by Rob Chiocchio",
-	"engines": {
-		"vscode": "^0.1.1"
-	},
-	"license": "GPLv3",
-	"categories": [
+    "name": "pretty-palette",
+    "displayName": "Rob's Pretty Palette",
+    "description": "A prettier colorscheme by Rob Chiocchio",
+    "version": "0.1.2",
+    "engines": {
+        "vscode": "^1.37.0"
+    },
+    "license": "GPLv3",
+    "categories": [
         "Themes"
     ],
     "icon": "icon.png",

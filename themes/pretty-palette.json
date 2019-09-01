@@ -413,14 +413,14 @@
             "name": "GitGutter deleted",
             "scope": "markup.deleted.git_gutter",
             "settings": {
-                "foreground": "#CB465A"
+                "foreground": "#FF7164"
             }
         },
         {
             "name": "GitGutter inserted",
             "scope": "markup.inserted.git_gutter",
             "settings": {
-                "foreground": "#88B04B"
+                "foreground": "#76C4C4"
             }
         },
         {
